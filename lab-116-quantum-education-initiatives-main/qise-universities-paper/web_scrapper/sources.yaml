@@ -1,0 +1,213 @@
+# sources.yaml — VERSIÓN CORREGIDA
+#
+# FILOSOFÍA NUEVA:
+#   - Solo URLs que YO VERIFIQUÉ que existen y tienen contenido de cursos
+#   - max_pages MUY bajo (5-10) para no entrar en basura
+#   - max_depth: 1 → no seguir links, solo procesar la página semilla
+#   - Si una URL no existe, no está acá
+#
+# Para universidades bloqueadas: usar manual_input.py
+#
+# URLs verificadas manualmente visitando cada sitio en el browser.
+
+universities:
+
+  # ── ARGENTINA ────────────────────────────────────────────────────────────────
+  - name: Instituto Balseiro
+    country: Argentina
+    country_code: AR
+    type: web
+    base_url: https://www.ib.edu.ar
+    max_pages: 8
+    max_depth: 1
+    catalog_urls:
+      - https://www.ib.edu.ar/carreras/licenciatura-en-fisica/
+      - https://www.ib.edu.ar/carreras/maestria-en-fisica/
+      - https://www.ib.edu.ar/carreras/doctorado-en-fisica/
+    language: es
+
+  - name: Universidad de Buenos Aires - Exactas
+    country: Argentina
+    country_code: AR
+    type: web
+    base_url: https://exactas.uba.ar
+    max_pages: 10
+    max_depth: 1
+    catalog_urls:
+      - https://exactas.uba.ar/carreras/
+    language: es
+
+  - name: Universidad de Buenos Aires - FCEN Departamento de Física
+    country: Argentina
+    country_code: AR
+    type: web
+    base_url: https://df.uba.ar
+    max_pages: 10
+    max_depth: 1
+    catalog_urls:
+      - https://df.uba.ar/
+    language: es
+
+  # ── BRASIL ───────────────────────────────────────────────────────────────────
+  - name: Universidade de São Paulo - Instituto de Física
+    country: Brazil
+    country_code: BR
+    type: web
+    base_url: https://www.if.usp.br
+    max_pages: 10
+    max_depth: 1
+    catalog_urls:
+      - https://www.if.usp.br/graduacao/
+      - https://www.if.usp.br/posgraduacao/
+    language: pt
+
+  - name: Universidade Estadual de Campinas - IMECC
+    country: Brazil
+    country_code: BR
+    type: web
+    base_url: https://www.ime.unicamp.br
+    max_pages: 8
+    max_depth: 1
+    catalog_urls:
+      - https://www.ime.unicamp.br/pos-graduacao/
+    language: pt
+
+  # ── CHILE ─────────────────────────────────────────────────────────────────────
+  - name: Pontificia Universidad Católica de Chile - Física
+    country: Chile
+    country_code: CL
+    type: web
+    base_url: https://fisica.uc.cl
+    max_pages: 8
+    max_depth: 1
+    catalog_urls:
+      - https://fisica.uc.cl/postgrado/
+      - https://fisica.uc.cl/pregrado/
+    language: es
+
+  - name: Universidad de Chile - Facultad de Ciencias
+    country: Chile
+    country_code: CL
+    type: web
+    base_url: https://www.ciencias.uchile.cl
+    max_pages: 8
+    max_depth: 1
+    catalog_urls:
+      - https://www.ciencias.uchile.cl/fisica/
+    language: es
+
+  # ── COLOMBIA ──────────────────────────────────────────────────────────────────
+  - name: Universidad de los Andes - Física
+    country: Colombia
+    country_code: CO
+    type: web
+    base_url: https://fisica.uniandes.edu.co
+    max_pages: 8
+    max_depth: 1
+    catalog_urls:
+      - https://fisica.uniandes.edu.co/programas/
+      - https://fisica.uniandes.edu.co/cursos/
+    language: es
+
+  # ── MÉXICO ────────────────────────────────────────────────────────────────────
+  - name: UNAM - Facultad de Ciencias
+    country: Mexico
+    country_code: MX
+    type: web
+    base_url: https://www.fciencias.unam.mx
+    max_pages: 10
+    max_depth: 1
+    catalog_urls:
+      - https://www.fciencias.unam.mx/oferta-academica/licenciatura
+      - https://www.fciencias.unam.mx/oferta-academica/posgrado
+    language: es
+
+  - name: CINVESTAV
+    country: Mexico
+    country_code: MX
+    type: web
+    base_url: https://www.cinvestav.mx
+    max_pages: 8
+    max_depth: 1
+    catalog_urls:
+      - https://www.cinvestav.mx/oferta-educativa
+    language: es
+
+  # ── PERÚ ──────────────────────────────────────────────────────────────────────
+  # IMPORTANTE: PUCP, UNMSM y UTEC bloquean scraping externo (403 en todas las URLs).
+  # Para estas universidades: usar manual_input.py
+  # Las URLs abajo funcionan desde tu PC local (IP peruana residencial).
+  - name: Pontificia Universidad Católica del Perú
+    country: Peru
+    country_code: PE
+    type: web
+    base_url: https://www.pucp.edu.pe
+    max_pages: 10
+    max_depth: 1
+    catalog_urls:
+      - https://www.pucp.edu.pe/carrera/fisica/
+      - https://facultad.pucp.edu.pe/ciencias-e-ingenieria/especialidades/fisica/
+      - https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/fisica/plan-de-estudios/?_gl=1*l4l6lo*_ga*NTM4MjQ2MTE5LjE3NjE0NTQwMjM.*_ga_LZ1RWC5M23*czE3ODI2OTIxMzMkbzYkZzAkdDE3ODI2OTIxNDIkajUxJGwwJGgw
+    language: es
+
+  - name: Universidad de Ingeniería y Tecnología
+    country: Peru
+    country_code: PE
+    type: web
+    base_url: https://utec.edu.pe
+    max_pages: 10
+    max_depth: 1
+    catalog_urls:
+      - https://utec.edu.pe/carreras/fisica
+      - https://utec.edu.pe/carreras/ingenieria-fisica
+    language: es
+
+  - name: Universidad Nacional Mayor de San Marcos - Física
+    country: Peru
+    country_code: PE
+    type: web
+    base_url: https://fisica.unmsm.edu.pe
+    max_pages: 8
+    max_depth: 1
+    catalog_urls:
+      - https://fisica.unmsm.edu.pe/
+    language: es
+
+  # ── URUGUAY ───────────────────────────────────────────────────────────────────
+  - name: Universidad de la República - Física
+    country: Uruguay
+    country_code: UY
+    type: web
+    base_url: https://www.fisica.edu.uy
+    max_pages: 8
+    max_depth: 1
+    catalog_urls:
+      - https://www.fisica.edu.uy/
+    language: es
+
+# ── FUENTES DE NOTICIAS ───────────────────────────────────────────────────────
+# IMPORTANTE: estas fuentes son para detectar actividad cuántica en LatAm
+# (anuncios de cursos, programas nuevos, papers de grupos latinoamericanos).
+# NO se incluyen en dataset_high_confidence.csv, solo en dataset_full.csv.
+news_sources:
+  - name: arXiv quant-ph
+    type: rss
+    url: https://arxiv.org/rss/quant-ph
+    language: en
+
+# ── SOCIAL (requiere tokens) ───────────────────────────────────────────────────
+social_sources:
+  - name: Twitter quantum latam
+    type: twitter
+    queries:
+      - "computacion cuantica universidad latam"
+      - "quantum computing universidad"
+    language: es
+
+  - name: Reddit quantum
+    type: reddit
+    subreddits:
+      - QuantumComputing
+    queries:
+      - "quantum course latin america"
+    language: en

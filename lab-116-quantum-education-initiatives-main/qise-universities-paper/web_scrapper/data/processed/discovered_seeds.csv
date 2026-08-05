@@ -1,0 +1,61 @@
+﻿institution,seed_url,source,score,matched_terms,reason
+PUCP,https://www.pucp.edu.pe/unidad/departamento-de-ingenieria-informatica-electronica-y-de-las-telecomunicaciones,sitemap,14,departamento|electronica|informatica|ingenieria|telecomunicaciones,"url:departamento + stem:electronica,informatica,ingenieria + sitemap"
+PUCP,https://educacioncontinua.pucp.edu.pe/oferta-academica?tipo%5B%5D=cursos-y-talleres&tipo%5B%5D=talleres,homepage,13,cursos|oferta academica,"url:cursos,oferta academica + anchor:cursos + curriculum-pattern"
+PUCP,https://www.pucp.edu.pe/carrera/ingenieria-de-las-telecomunicaciones,sitemap,12,carrera|ingenieria|telecomunicaciones,"url:carrera + stem:ingenieria,telecomunicaciones + sitemap"
+PUCP,https://www.pucp.edu.pe/carrera/ingenieria-electronica,sitemap,12,carrera|electronica|ingenieria,"url:carrera + stem:electronica,ingenieria + sitemap"
+PUCP,https://www.pucp.edu.pe/carrera/ingenieria-informatica,sitemap,12,carrera|informatica|ingenieria,"url:carrera + stem:informatica,ingenieria + sitemap"
+PUCP,https://puntoedu.pucp.edu.pe/vida-universitaria/institucional/el-departamento-academico-de-ciencias-pucp-60-aniversario,homepage,11,ciencias|departamento,url:departamento + anchor:departamento + stem:ciencias
+PUCP,https://www.pucp.edu.pe/carrera/ciencias-de-la-informacion,sitemap,10,carrera|ciencias,url:carrera + stem:ciencias + sitemap
+PUCP,https://www.pucp.edu.pe/carrera/fisica,sitemap,10,carrera|fisica,url:carrera + stem:fisica + sitemap
+PUCP,https://www.pucp.edu.pe/carrera/ingenieria-ambiental-y-sostenible,sitemap,10,carrera|ingenieria,url:carrera + stem:ingenieria + sitemap
+PUCP,https://www.pucp.edu.pe/carrera/ingenieria-biomedica,sitemap,10,carrera|ingenieria,url:carrera + stem:ingenieria + sitemap
+PUCP,https://www.pucp.edu.pe/carrera/ingenieria-civil,sitemap,10,carrera|ingenieria,url:carrera + stem:ingenieria + sitemap
+PUCP,https://www.pucp.edu.pe/carrera/ingenieria-de-minas,sitemap,10,carrera|ingenieria,url:carrera + stem:ingenieria + sitemap
+PUCP,https://www.pucp.edu.pe/carrera/ingenieria-geologica,sitemap,10,carrera|ingenieria,url:carrera + stem:ingenieria + sitemap
+PUCP,https://www.pucp.edu.pe/carrera/ingenieria-industrial,sitemap,10,carrera|ingenieria,url:carrera + stem:ingenieria + sitemap
+PUCP,https://www.pucp.edu.pe/carrera/ingenieria-mecanica,sitemap,10,carrera|ingenieria,url:carrera + stem:ingenieria + sitemap
+PUCP,https://www.pucp.edu.pe/carrera/ingenieria-mecatronica,sitemap,10,carrera|ingenieria,url:carrera + stem:ingenieria + sitemap
+PUCP,https://www.pucp.edu.pe/carrera/ingenieria-quimica,sitemap,10,carrera|ingenieria,url:carrera + stem:ingenieria + sitemap
+PUCP,https://www.pucp.edu.pe/carrera/matematicas,sitemap,10,carrera|matematica,url:carrera + stem:matematica + sitemap
+PUCP,https://www.pucp.edu.pe/pregrado/carreras/por-facultad,homepage,10,carrera|facultad|pregrado,"url:carrera,facultad,pregrado + sitemap"
+PUCP,https://www.pucp.edu.pe/unidad/departamento-academico-de-ciencias,sitemap,10,ciencias|departamento,url:departamento + stem:ciencias + sitemap
+UTEC,https://utec.edu.pe/blog-de-carreras/utec/ingenieria-de-la-energia-en-utec-conoce-el-plan-de-estudios-de-esta-carrera,sitemap,13,carrera|ingenieria|plan de estudios,"url:carrera,plan de estudios + stem:ingenieria + curriculum-pattern + sitemap + low-priority:blog"
+UTEC,https://utec.edu.pe/carreras/fisica,homepage,12,carrera|fisica,url:carrera + anchor:carrera + stem:fisica + sitemap
+UTEC,https://utec.edu.pe/carreras/ingenieria-electronica,homepage,12,carrera|electronica|ingenieria,"url:carrera + stem:electronica,ingenieria + sitemap"
+UTEC,https://utec.edu.pe/blog-de-carreras/ingenieria-industrial/egresada-de-ingenieria-industrial-de-utec-fue-becada-en-el-programa-doctoral-de-ingenieria-industrial-en-university-south-florida-usf,sitemap,11,carrera|doctoral|ingenieria|programa,"url:carrera,doctoral,programa + stem:ingenieria + sitemap + low-priority:blog"
+UTEC,https://utec.edu.pe/blog-de-carreras/ingenieria-electronica/grad-school-lo-que-me-avisaron-y-no-hice-caso-experiencias-y-consejos-de-un-alumno-en-el-41,sitemap,10,carrera|electronica|ingenieria|school,"url:carrera,school + stem:electronica,ingenieria + sitemap + low-priority:blog"
+UTEC,https://utec.edu.pe/blog-de-carreras/ingenieria-electronica/utec-alumno-de-ingenieria-electronica-participa-en-programa-nanorepu-2020,sitemap,10,carrera|electronica|ingenieria|programa,"url:carrera,programa + stem:electronica,ingenieria + sitemap + low-priority:blog"
+UTEC,https://utec.edu.pe/carreras/ciencia-de-la-computacion,homepage,10,carrera|computacion,url:carrera + stem:computacion + sitemap
+UTEC,https://utec.edu.pe/carreras/ingenieria-ambiental,homepage,10,carrera|ingenieria,url:carrera + stem:ingenieria + sitemap
+UTEC,https://utec.edu.pe/carreras/ingenieria-civil,homepage,10,carrera|ingenieria,url:carrera + stem:ingenieria + sitemap
+UTEC,https://utec.edu.pe/carreras/ingenieria-de-la-energia,homepage,10,carrera|ingenieria,url:carrera + stem:ingenieria + sitemap
+UTEC,https://utec.edu.pe/carreras/ingenieria-industrial,homepage,10,carrera|ingenieria,url:carrera + stem:ingenieria + sitemap
+UTEC,https://utec.edu.pe/carreras/ingenieria-mecanica,homepage,10,carrera|ingenieria,url:carrera + stem:ingenieria + sitemap
+UTEC,https://utec.edu.pe/carreras/ingenieria-mecatronica,homepage,10,carrera|ingenieria,url:carrera + stem:ingenieria + sitemap
+UTEC,https://utec.edu.pe/carreras/ingenieria-quimica,homepage,10,carrera|ingenieria,url:carrera + stem:ingenieria + sitemap
+UTEC,https://utec.edu.pe/facultad/facultad-de-ciencias-basicas,sitemap,10,ciencias|facultad,url:facultad + stem:ciencias + sitemap
+UTEC,https://utec.edu.pe/facultad/facultad-de-computacion,sitemap,10,computacion|facultad,url:facultad + stem:computacion + sitemap
+UTEC,https://utec.edu.pe/facultad/facultad-de-ingenieria,sitemap,10,facultad|ingenieria,url:facultad + stem:ingenieria + sitemap
+UTEC,https://utec.edu.pe/utec-podcast-innovacion-en-la-ingenieria-maestrias-universidad-de-ingenieria-y-tecnologia,sitemap,10,ingenieria|maestria,url:maestria + stem:ingenieria + sitemap
+UTEC,https://pregrado.utec.edu.pe/landings/carreras/fisica,homepage,9,carrera|fisica,url:carrera + stem:fisica
+UTEC,https://utec.edu.pe/blog-de-carreras/ingenieria-de-la-energia/aprendizaje-para-la-vida-mi-experiencia-en-el-programa-repu,sitemap,8,carrera|ingenieria|programa,"url:carrera,programa + stem:ingenieria + sitemap + low-priority:blog"
+UNI,https://portal.uni.edu.pe/index.php/posgrado-uni/catalogo-de-posgrado,homepage,15,catalogo|posgrado,"url:catalogo,posgrado + anchor:catalogo,posgrado + curriculum-pattern"
+UNI,https://portal.uni.edu.pe/index.php/facultades/ingenieria-electrica-y-electronica,homepage,12,electrica|electronica|facultad|ingenieria,"anchor:facultad + stem:electrica,electronica,ingenieria"
+UNI,https://portal.uni.edu.pe/index.php/facultades/ingenieria-economica-estadistica-y-de-ciencias-sociales,homepage,10,ciencias|facultad|ingenieria,"anchor:facultad + stem:ciencias,ingenieria"
+UNI,https://portal.uni.edu.pe/index.php/facultades/ciencias,homepage,8,ciencias|facultad,anchor:facultad + stem:ciencias
+UNI,https://portal.uni.edu.pe/index.php/facultades/ingenieria-ambiental,homepage,8,facultad|ingenieria,anchor:facultad + stem:ingenieria
+UNI,https://portal.uni.edu.pe/index.php/facultades/ingenieria-civil,homepage,8,facultad|ingenieria,anchor:facultad + stem:ingenieria
+UNI,https://portal.uni.edu.pe/index.php/facultades/ingenieria-de-petroleo-y-petroquimica,homepage,8,facultad|ingenieria,anchor:facultad + stem:ingenieria
+UNI,https://portal.uni.edu.pe/index.php/facultades/ingenieria-geologica-minera-y-metalurgica,homepage,8,facultad|ingenieria,anchor:facultad + stem:ingenieria
+UNI,https://portal.uni.edu.pe/index.php/facultades/ingenieria-industrial-y-de-sistemas,homepage,8,facultad|ingenieria,anchor:facultad + stem:ingenieria
+UNI,https://portal.uni.edu.pe/index.php/facultades/ingenieria-mecanica,homepage,8,facultad|ingenieria,anchor:facultad + stem:ingenieria
+UNI,https://portal.uni.edu.pe/index.php/facultades/ingenieria-quimica-y-textil,homepage,8,facultad|ingenieria,anchor:facultad + stem:ingenieria
+UNI,https://portal.uni.edu.pe/index.php/posgrado-uni/doctorados,homepage,8,doctorado|posgrado,"url:doctorado,posgrado + anchor:doctorado"
+UNI,https://portal.uni.edu.pe/index.php/posgrado-uni/maestrias,homepage,8,maestria|posgrado,"url:maestria,posgrado + anchor:maestria"
+UNI,https://portal.uni.edu.pe/index.php/facultades/ciencias/ingenieria-fisica,homepage,6,ciencias|fisica|ingenieria,"stem:ciencias,fisica,ingenieria"
+UNI,https://portal.uni.edu.pe/index.php/facultades/ingenieria-electrica-y-electronica/ingenieria-de-ciberseguridad,homepage,6,electrica|electronica|ingenieria,"stem:electrica,electronica,ingenieria"
+UNI,https://portal.uni.edu.pe/index.php/facultades/ingenieria-electrica-y-electronica/ingenieria-de-telecomunicaciones,homepage,6,electrica|electronica|ingenieria|telecomunicaciones,"stem:electrica,electronica,ingenieria"
+UNI,https://portal.uni.edu.pe/index.php/facultades/ingenieria-electrica-y-electronica/ingenieria-electrica,homepage,6,electrica|electronica|ingenieria,"stem:electrica,electronica,ingenieria"
+UNI,https://portal.uni.edu.pe/index.php/facultades/ingenieria-electrica-y-electronica/ingenieria-electronica,homepage,6,electrica|electronica|ingenieria,"stem:electrica,electronica,ingenieria"
+UNI,http://www.catalogo.uni.edu.pe/,homepage,5,,curriculum-pattern
+UNI,https://press.uni.edu.pe/index.php/historiauni/catalog/series/historiauni,homepage,5,,curriculum-pattern

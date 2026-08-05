@@ -1,0 +1,143 @@
+﻿Nombre,Asistencia día 1,Asistencia día 2,Asistencia día 3,email,Edad,Ocupación actual,"¿Qué carrera estudió, estudia o planea estudiar?",¿A qué días se compromete asistir?,,
+qubit 1,VERDADERO,VERDADERO,FALSO,gmail.com,18-24,Universitario(a),Física,19 de diciembre,,21 de diciembre
+qubit 2,VERDADERO,VERDADERO,VERDADERO,utec.edu.pe,18-24,Universitario(a),Ciencias de la Computación,19 de diciembre,20 de diciembre, 21 de diciembre
+qubit 3,VERDADERO,FALSO,VERDADERO,gmail.com,17 o menos,Escolar,Derecho,,20 de diciembre, 21 de diciembre
+qubit 4,VERDADERO,FALSO,VERDADERO,usmp.pe,18-24,Universitario(a),Ingeniería de Sistemas,19 de diciembre,20 de diciembre, 21 de diciembre
+qubit 5,VERDADERO,VERDADERO,FALSO,yahoo.es,45+,Profesional,Turismo,19 de diciembre,20 de diciembre, 21 de diciembre
+qubit 6,VERDADERO,FALSO,FALSO,gmail.com,25-34,Profesional,Ingeniería Ambiental,19 de diciembre,20 de diciembre, 21 de diciembre
+qubit 7,VERDADERO,VERDADERO,VERDADERO,uni.pe,18-24,Universitario(a),Ingeniería Electrónica,,20 de diciembre, 21 de diciembre
+qubit 8,VERDADERO,FALSO,FALSO,gmail.com,25-34,Universitario(a),Ingeniería de Software ,19 de diciembre,20 de diciembre,
+qubit 9,VERDADERO,VERDADERO,VERDADERO,dygsom.pe,35-44,Profesional,Ingeniería de Sistemas,19 de diciembre,20 de diciembre, 21 de diciembre
+qubit 10,VERDADERO,FALSO,VERDADERO,gmail.com,18-24,Universitario(a),Ciencias de la Computación ,,20 de diciembre,
+qubit 11,VERDADERO,FALSO,FALSO,gmail.com,17 o menos,Escolar,Ciencias de la Computación ,19 de diciembre,20 de diciembre, 21 de diciembre
+qubit 12,FALSO,VERDADERO,VERDADERO,unmsm.edu.pe,18-24,Universitario(a),Física ,,20 de diciembre, 21 de diciembre
+qubit 13,VERDADERO,VERDADERO,FALSO,hotmail.com,25-34,Universitario(a),Ciencias de la Computación,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 14,VERDADERO,FALSO,VERDADERO,gmail.com,18-24,Universitario(a),Finanzas,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 15,FALSO,FALSO,VERDADERO,gmail.com,17 o menos,Escolar,Ingeniería Aeroespacial,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 16,VERDADERO,FALSO,FALSO,utec.edu.pe,18-24,Universitario(a),Ciencias de la Computación,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 17,VERDADERO,FALSO,VERDADERO,gmail.com,18-24,Universitario(a),Ingeniería de Software,19 de diciembre,,
+qubit 18,VERDADERO,VERDADERO,FALSO,gmail.com,17 o menos,Egresado(a),Medicina,,20 de diciembre,
+qubit 19,VERDADERO,FALSO,VERDADERO,gmail.com,17 o menos,Escolar,Relaciones Internacionales ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 20,VERDADERO,VERDADERO,FALSO,gmail.com,18-24,Universitario(a),Ingeniería de Software,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 21,VERDADERO,FALSO,VERDADERO,gmail.com,18-24,Universitario(a),Ingeniería Empresarial ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 22,FALSO,VERDADERO,FALSO,gmail.com,25-34,Profesional,Ingeniería Electrónica,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 23,FALSO,VERDADERO,VERDADERO,unmsm.edu.pe,18-24,Universitario(a),Ingeniería de Telecomunicaciones ,19 de diciembre,, 21 de diciembre
+qubit 24,VERDADERO,FALSO,VERDADERO,limaprovincias.coar.edu.pe,17 o menos,Escolar,Ingeniería Mecatrónica,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 25,VERDADERO,FALSO,FALSO,gmail.com,18-24,Universitario(a),Ciberseguridad ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 26,VERDADERO,VERDADERO,VERDADERO,gmail.com,17 o menos,Escolar,Ingeniería,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 27,VERDADERO,FALSO,FALSO,guardian.pe,35-44,Investigador(a),Ingeniería Informática,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 28,VERDADERO,FALSO,VERDADERO,gmail.com,45+,Profesional,Ingeniería Electronica,,20 de diciembre,
+qubit 29,VERDADERO,VERDADERO,VERDADERO,upc.edu.pe,18-24,Universitario(a),Ciencias de la Computación,,20 de diciembre,
+qubit 30,VERDADERO,FALSO,VERDADERO,gmail.com,45+,Otro,Ingeniera de Sistemas,19 de diciembre, 20 de diciembre,
+qubit 31,VERDADERO,VERDADERO,FALSO,gmail.com,25-34,Universitario(a),Ingeniería Biomédica,,20 de diciembre, 21 de diciembre
+qubit 32,VERDADERO,VERDADERO,FALSO,gmail.com,18-24,Universitario(a),Administración ,19 de diciembre, 20 de diciembre,
+qubit 33,FALSO,VERDADERO,VERDADERO,gmail.com,17 o menos,Escolar,Relaciones Internacionales ,,,21 de diciembre
+qubit 34,VERDADERO,FALSO,VERDADERO,gmail.com,17 o menos,Escolar,Matética,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 35,FALSO,FALSO,VERDADERO,gmail.com,17 o menos,Escolar,Ciencias de la Computación,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 36,VERDADERO,FALSO,FALSO,gmail.com,18-24,Universitario(a),Ciencias de la Computación,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 37,VERDADERO,FALSO,FALSO,gmail.com,25-34,Universitario(a),Ingeniería Industrial,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 38,VERDADERO,VERDADERO,VERDADERO,gmail.com,17 o menos,Escolar,Ingeniería de Sistemas ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 39,FALSO,VERDADERO,FALSO,gmail.com,35-44,Profesional,Ingenieria de Sistemas,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 40,VERDADERO,FALSO,VERDADERO,gmail.com,18-24,Universitario(a),Ingeniería de Sistemas ,19 de diciembre,,
+qubit 41,VERDADERO,FALSO,FALSO,gmail.com,35-44,Profesional,Economía ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 42,VERDADERO,FALSO,FALSO,yahoo.es,45+,Profesional,Abogado,,20 de diciembre,
+qubit 43,VERDADERO,FALSO,FALSO,gmail.com,17 o menos,Escolar,Bioquímica,19 de diciembre, 20 de diciembre,
+qubit 44,VERDADERO,VERDADERO,VERDADERO,gmail.com,18-24,Universitario(a),Ingeniería Mecatrónica,19 de diciembre, 20 de diciembre,
+qubit 45,VERDADERO,VERDADERO,VERDADERO,uni.pe,18-24,Universitario(a),Física ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 46,VERDADERO,FALSO,FALSO,hotmail.com,45+,Profesional,Ingenieria de Sistemas,19 de diciembre, 21 de diciembre, 20 de diciembre
+qubit 47,VERDADERO,VERDADERO,VERDADERO,hotmail.com,25-34,Investigador(a),Musicología Matemática,,20 de diciembre, 21 de diciembre
+qubit 48,VERDADERO,VERDADERO,FALSO,gmail.com,18-24,Universitario(a),Ingeniería de Software,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 49,VERDADERO,FALSO,FALSO,gmail.com,25-34,Universitario(a),Ingeniería Industrial ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 50,VERDADERO,VERDADERO,VERDADERO,gmail.com,25-34,Universitario(a),Ingeniería de Software,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 51,FALSO,FALSO,FALSO,gmail.com,18-24,Universitario(a),Ingenieria de Sistemas,, 20 de diciembre,21 de diciembre
+qubit 52,FALSO,VERDADERO,VERDADERO,gmail.com,25-34,Universitario(a),Física,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 53,FALSO,VERDADERO,VERDADERO,utec.edu.pe,18-24,Universitario(a),Ciencias de la Computación,19 de diciembre, 20 de diciembre,
+qubit 54,VERDADERO,FALSO,FALSO,gmail.com,45+,Egresado(a),Ingenieria de Sistemas ,,20 de diciembre, 21 de diciembre
+qubit 55,VERDADERO,FALSO,FALSO,gmail.com,18-24,Universitario(a),Ciencias de la Computación,19 de diciembre,, 21 de diciembre
+qubit 56,VERDADERO,FALSO,FALSO,alum.up.edu.pe,18-24,Universitario(a),Ingeniería Empresarial ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 57,VERDADERO,VERDADERO,VERDADERO,outlook.com,35-44,Egresado(a),Ingenieria de Sistemas,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 58,VERDADERO,FALSO,FALSO,pucp.edu.pe,18-24,Universitario(a),Gestion,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 59,VERDADERO,FALSO,FALSO,gmail.com,17 o menos,Universitario(a),Sistemas de la información ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 60,VERDADERO,FALSO,FALSO,gmail.com,18-24,Universitario(a),Ingeniería Física ,,20 de diciembre, 21 de diciembre
+qubit 61,VERDADERO,VERDADERO,VERDADERO,gmail.com,18-24,Universitario(a),Física,,20 de diciembre, 21 de diciembre
+qubit 62,VERDADERO,FALSO,VERDADERO,gmail.com,35-44,Egresado(a),Desarrollo en Sistemas de la Información ,,,21 de diciembre
+qubit 63,VERDADERO,FALSO,FALSO,gmail.com,17 o menos,Escolar,Relaciones internacionales ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 64,VERDADERO,FALSO,FALSO,uni.pe,18-24,Universitario(a),Ingeniería Económica ,19 de diciembre,,
+qubit 65,VERDADERO,FALSO,FALSO,gmail.com,18-24,Universitario(a),Física,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 66,VERDADERO,VERDADERO,VERDADERO,gmail.com,17 o menos,Escolar,Ingeniería Física ,19 de diciembre,20 de diciembre, 21 de diciembre
+qubit 67,VERDADERO,VERDADERO,VERDADERO,utec.edu.pe,18-24,Universitario(a),Ciencias de la Computación ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 68,VERDADERO,FALSO,FALSO,gmail.com,25-34,Profesional,Ingenieria de Sistemas,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 69,VERDADERO,FALSO,FALSO,hotmail.com,45+,Profesional,Contabilidad ,19 de diciembre,, 21 de diciembre
+qubit 70,VERDADERO,FALSO,FALSO,uni.pe,18-24,Universitario(a),Ingeniería Electrónica,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 71,VERDADERO,FALSO,FALSO,gmail.com,18-24,Universitario(a),Ingeniería Empresarial ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 72,VERDADERO,FALSO,FALSO,outlook.com,18-24,Universitario(a),Economía,19 de diciembre, 20 de diciembre,
+qubit 73,VERDADERO,FALSO,FALSO,hotmail.com,45+,Profesional,Ingeniería Electrónica,,20 de diciembre,
+qubit 74,VERDADERO,VERDADERO,FALSO,gmail.com,18-24,Universitario(a),Ingeniería de Software,,20 de diciembre,
+qubit 75,VERDADERO,FALSO,FALSO,outlook.com.pe,35-44,Investigador(a),Economía ,,20 de diciembre, 21 de diciembre
+qubit 76,VERDADERO,VERDADERO,FALSO,gmail.com,18-24,Universitario(a),Ingeniería de Software ,,20 de diciembre,
+qubit 77,VERDADERO,FALSO,FALSO,hotmail.com,45+,Egresado(a),Economía ,,20 de diciembre, 21 de diciembre
+qubit 78,VERDADERO,FALSO,FALSO,utec.edu.pe,17 o menos,Universitario(a),Sistemas de Información ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 79,FALSO,VERDADERO,VERDADERO,gmail.com,18-24,Profesional,Inteligencia Artificial,,20 de diciembre,
+qubit 80,VERDADERO,VERDADERO,FALSO,utec.edu.pe,18-24,Universitario(a),Ciencias de la Computación,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 81,VERDADERO,FALSO,FALSO,gmail.com,17 o menos,Universitario(a),Psicología,,20 de diciembre,
+qubit 82,VERDADERO,FALSO,VERDADERO,,,,,,,
+qubit 83,VERDADERO,FALSO,VERDADERO,gmail.com,17 o menos,Otro,Ingeniería de Software ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 84,VERDADERO,FALSO,FALSO,gmail.com,18-24,Universitario(a),Medicina humana,19 de diciembre,,
+qubit 85,VERDADERO,VERDADERO,VERDADERO,gmail.com,18-24,Universitario(a),Ingeniería Empresarial y de Sistemas,19 de diciembre,,
+qubit 86,VERDADERO,FALSO,FALSO,utec.edu.pe,25-34,Universitario(a),Ciencia de datos,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 87,FALSO,VERDADERO,VERDADERO,gmail.com,35-44,Profesional,Psicología,,,21 de diciembre
+qubit 88,VERDADERO,FALSO,VERDADERO,gmail.com,17 o menos,Escolar,Ingeniería Aeroespacial,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 89,VERDADERO,FALSO,FALSO,gmail.com,25-34,Profesional,Ingeniería de Software ,19 de diciembre, 21 de diciembre,
+qubit 90,FALSO,VERDADERO,VERDADERO,uni.pe,18-24,Universitario(a),Física,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 91,VERDADERO,FALSO,VERDADERO,gmail.com,18-24,Universitario(a),Ingeniería Electrónica,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 92,VERDADERO,VERDADERO,FALSO,gmail.com,18-24,Universitario(a),Ingeniería Industrial,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 93,VERDADERO,FALSO,VERDADERO,gmail.com,25-34,Universitario(a),Ingenieria de Sistemas ,,20 de diciembre, 21 de diciembre
+qubit 94,VERDADERO,VERDADERO,FALSO,gmail.com,35-44,Otro,Ciencias de la Computación,19 de diciembre,,
+qubit 95,FALSO,VERDADERO,VERDADERO,gmail.com,18-24,Universitario(a),Ingenieria de Sistemas,,20 de diciembre, 21 de diciembre
+qubit 96,FALSO,VERDADERO,VERDADERO,gmail.com,18-24,Universitario(a),Ciencias de la comunicación ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 97,VERDADERO,FALSO,VERDADERO,gmail.com,25-34,Universitario(a),Administración y negocios internacionales ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 98,VERDADERO,FALSO,VERDADERO,utec.edu.pe,18-24,Universitario(a),Ciencias de la Computación ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 99,VERDADERO,FALSO,VERDADERO,gmail.com,18-24,Universitario(a),Arquitectura,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 100,VERDADERO,FALSO,FALSO,hotmail.com,25-34,Egresado(a),Economía,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 101,VERDADERO,FALSO,FALSO,pucp.edu.pe,18-24,Universitario(a),Ingeniería Industrial ,19 de diciembre,,
+qubit 102,VERDADERO,FALSO,FALSO,,,,,,,
+qubit 103,VERDADERO,VERDADERO,VERDADERO,gmail.com,17 o menos,Universitario(a),Ingeniería de Software ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 104,VERDADERO,FALSO,VERDADERO,gmail.com,18-24,Universitario(a),Finanzas ,19 de diciembre,, 21 de diciembre
+qubit 105,VERDADERO,FALSO,VERDADERO,tecsup.edu.pe,25-34,Universitario(a),Ciberseguridad,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 106,VERDADERO,VERDADERO,FALSO,gmail.com,25-34,Universitario(a),Ingeniería Física,19 de diciembre, 20 de diciembre,
+qubit 107,VERDADERO,VERDADERO,FALSO,outlook.com,25-34,Egresado(a),Ingeniería Empresarial,,20 de diciembre,
+qubit 108,VERDADERO,FALSO,VERDADERO,gmail.com,18-24,Universitario(a),Ingenieria de Sistemas,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 109,VERDADERO,VERDADERO,VERDADERO,gmail.com,45+,Profesional,Ingeniería Química ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 110,VERDADERO,FALSO,VERDADERO,utec.edu.pe,17 o menos,Universitario(a),Ciencias de la Computación ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 111,VERDADERO,FALSO,VERDADERO,utec.edu.pe,18-24,Universitario(a),Ciencias de la Computación ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 112,VERDADERO,VERDADERO,FALSO,gmail.com,17 o menos,Escolar,Filosofía,19 de diciembre, 20 de diciembre,
+qubit 113,VERDADERO,VERDADERO,VERDADERO,utec.edu.pe,18-24,Universitario(a),Ciencias de la Computación,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 114,VERDADERO,FALSO,FALSO,gmail.com,45+,Profesional,Administración,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 115,FALSO,VERDADERO,VERDADERO,gmail.com,18-24,Universitario(a),Ingeniería de Software,, 20 de diciembre,21 de diciembre
+qubit 116,VERDADERO,FALSO,FALSO,gmail.com,18-24,Universitario(a),Física,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 117,VERDADERO,FALSO,VERDADERO,gmail.com,25-34,Profesional,Bioingeniería,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 118,VERDADERO,FALSO,FALSO,gmail.com,18-24,Universitario(a),Ciencias de Computación,19 de diciembre,, 21 de diciembre
+qubit 119,VERDADERO,FALSO,VERDADERO,unmsm.edu.pe,25-34,Universitario(a),Computación Científica ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 120,VERDADERO,FALSO,FALSO,gmail.com,25-34,Profesional,Ingenieria de Sistemas ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 121,VERDADERO,FALSO,VERDADERO,hotmail.com,25-34,Otro,Psicología,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 122,FALSO,VERDADERO,VERDADERO,unmsm.edu.pe,25-34,Universitario(a),Ingeniería de Software,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 123,VERDADERO,FALSO,FALSO,gmail.com,18-24,Universitario(a),Ingeniería,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 124,VERDADERO,VERDADERO,FALSO,pucp.edu.pe,25-34,Universitario(a),Gestión y Alta Dirección ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 125,VERDADERO,FALSO,FALSO,unmsm.edu.pe,18-24,Universitario(a),Física ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 126,VERDADERO,VERDADERO,FALSO,gmail.com,35-44,Otro,Desarrollo de sistemas ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 127,VERDADERO,FALSO,VERDADERO,gmail.com,25-34,Egresado(a),Química ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 128,VERDADERO,FALSO,FALSO,gmail.com,18-24,Universitario(a),Ciencias de la Computación,19 de diciembre,,
+qubit 129,VERDADERO,FALSO,FALSO,utec.edu.pe,18-24,Universitario(a),Ciencias de la Computación,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 130,VERDADERO,FALSO,FALSO,gmail.com,25-34,Profesional,Economía,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 131,VERDADERO,VERDADERO,VERDADERO,gmail.com,35-44,Profesional,Ingeniera de Sistemas,19 de diciembre,, 21 de diciembre
+qubit 132,VERDADERO,FALSO,FALSO,utec.edu.pe,18-24,Universitario(a),Ingeniería Mecatrónica,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 133,VERDADERO,VERDADERO,FALSO,gmail.com,25-34,Profesional,Administración de negocios,,20 de diciembre, 21 de diciembre
+qubit 134,VERDADERO,VERDADERO,VERDADERO,gmail.com,18-24,Universitario(a),Ingenieria de Sistemas ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 135,VERDADERO,FALSO,FALSO,gmail.com,18-24,Universitario(a),Ingeniería,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 136,VERDADERO,FALSO,VERDADERO,gmail.com,17 o menos,Escolar,Economía ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 137,VERDADERO,VERDADERO,FALSO,gmail.com,18-24,Universitario(a),Ingeniería de telecomunicaciones ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 138,VERDADERO,FALSO,VERDADERO,gmail.com,18-24,Universitario(a),Ingeniería Mecatrónica ,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 139,VERDADERO,FALSO,VERDADERO,gmail.com,45+,Profesional,Ingeniería Electrónica,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 140,VERDADERO,FALSO,VERDADERO,gmail.com,35-44,Profesional,Economía,19 de diciembre, 20 de diciembre, 21 de diciembre
+qubit 141,FALSO,VERDADERO,VERDADERO,gmail.com,17 o menos,Escolar,Relaciones Internacionales ,,,21 de diciembre
+qubit 142,VERDADERO,FALSO,VERDADERO,gmail.com,17 o menos,Escolar,Física,19 de diciembre, 20 de diciembre, 21 de diciembre

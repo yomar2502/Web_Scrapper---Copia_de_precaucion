@@ -1,0 +1,63 @@
+{
+  "run_timestamp": "2026-07-11T07:10:12.315973+00:00",
+  "elapsed_seconds": 3218.1,
+  "seeds_discovered": 60,
+  "pages_crawled": 450,
+  "pdfs_detected": 128,
+  "pdf_documents_processed": 125,
+  "pdf_documents_extracted": 114,
+  "fragments_processed": 9854,
+  "candidate_rows": 257,
+  "rows_from_pdf": 210,
+  "rows_needing_manual_review": 11,
+  "by_classification": {
+    "quantum_foundations_or_adjacent": 150,
+    "qise_core": 3,
+    "unclear": 80,
+    "non_course_or_contextual": 24
+  },
+  "by_confidence": {
+    "high": 111,
+    "medium": 66,
+    "low": 80
+  },
+  "by_seed_origin": {
+    "auto_discovered": 257
+  },
+  "qise_core_rows": 3,
+  "institutions_with_qise_core": [
+    "PUCP",
+    "UTEC"
+  ],
+  "countries_with_qise_core": [
+    "PE"
+  ],
+  "by_country": {
+    "PE": {
+      "rows": 257,
+      "qise_core": 3,
+      "institutions": 3,
+      "institutions_with_core": [
+        "PUCP",
+        "UTEC"
+      ]
+    }
+  },
+  "crawl_stats_per_institution": {
+    "PUCP": {
+      "pages_crawled": 150,
+      "html_pages": 98,
+      "pdfs_detected": 52
+    },
+    "UTEC": {
+      "pages_crawled": 150,
+      "html_pages": 121,
+      "pdfs_detected": 25
+    },
+    "UNI": {
+      "pages_crawled": 150,
+      "html_pages": 99,
+      "pdfs_detected": 51
+    }
+  }
+}

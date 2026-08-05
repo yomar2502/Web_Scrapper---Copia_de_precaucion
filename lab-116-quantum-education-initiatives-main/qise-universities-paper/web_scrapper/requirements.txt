@@ -1,0 +1,34 @@
+# ── Core scraping ────────────────────────────────────────────────────────────
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+PyYAML>=6.0
+urllib3>=2.0.0
+
+# ── PDF extraction ───────────────────────────────────────────────────────────
+# PyMuPDF (fitz) is the primary engine; pdfplumber is the fallback for
+# table/curriculum-grid layouts; pdfminer.six / pypdf are last-resort fallbacks.
+PyMuPDF>=1.24.0
+pdfplumber>=0.11.0
+pdfminer.six>=20221105
+pypdf>=3.17.0
+
+# ── Spreadsheet extraction (planes de estudio published as Excel) ────────────
+openpyxl>=3.1.0
+# xlrd>=2.0.1           # optional: legacy .xls files (else flagged for review)
+
+# ── Optional: RSS / news sources ─────────────────────────────────────────────
+feedparser>=6.0.10
+
+# ── Optional: geo enrichment (geo_enricher.py) ───────────────────────────────
+# Uses only `requests` (World Bank API) + stdlib, so nothing extra is required.
+
+# ── Optional: social sources (disabled by default) ───────────────────────────
+# tweepy>=4.14.0        # Twitter/X API v2
+# praw>=7.7.0           # Reddit API
+
+# ── Optional: OCR for scanned PDFs (NOT enabled; future work) ─────────────────
+# Scanned/image PDFs are currently flagged `needs_manual_review`. To add OCR
+# later, install these and implement an isolated OCR fallback in extractor.py:
+# pytesseract>=0.3.10
+# pdf2image>=1.17.0

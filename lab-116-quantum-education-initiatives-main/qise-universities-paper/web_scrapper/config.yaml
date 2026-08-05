@@ -1,0 +1,44 @@
+# config.yaml — crawl behaviour and output locations.
+#
+# The quantum / course keyword taxonomy now lives in keywords.py (one auditable
+# place, shared by the extractor and classifier). CLI flags override the scraper
+# values below (see: python main.py --help).
+
+scraper:
+  request_delay_sec: 1.5          # polite delay between requests (per crawler)
+  request_timeout_sec: 25
+  max_retries: 3
+  max_depth: 2                    # link depth from each seed URL
+  max_pages_per_university: 150   # hard cap on pages fetched per institution
+                                  # (multi-faculty universities have 10-15
+                                  # subdomain sites; 80 was too tight)
+  max_pdfs_per_domain: 50         # hard cap on PDFs fetched per institution
+  download_pdfs: true             # fetch & parse linked PDFs
+  use_cache: true                 # reuse on-disk downloads across runs
+  respect_robots: true            # consult robots.txt (fails open on error)
+  max_pdf_mb: 40                  # skip/​truncate PDFs larger than this
+  user_agent: "QISE-LatAm-Research-Bot/2.0 (academic research on quantum education)"
+
+  # Stage 1 — automatic seed discovery (used when an institution has no manual
+  # seed URLs; see also --discover-seeds-only / --force-discover):
+  auto_discover_seeds: true       # homepage + robots.txt + sitemap.xml scan
+  max_auto_seeds_per_institution: 20
+  min_seed_score: 3               # drop candidates scoring below this
+
+  # Fetch documents (PDF/Excel) embedded from Google Drive / SharePoint —
+  # common for planes de estudio. Documents only; those hosts are never
+  # crawled as pages.
+  fetch_external_docs: true
+
+  # Note: max_pages_per_domain, request_delay_seconds, timeout_seconds and
+  # respect_robots_txt are accepted as aliases of the keys above.
+
+output:
+  raw_dir: "data/raw"             # cached HTML/PDF downloads (also the audit archive)
+  processed_dir: "data/processed" # run_summary.json etc.
+  log_dir: "logs"
+
+# Per-country research metadata is produced separately by geo_enricher.py; the
+# core scraper does not require it. Set enabled: true to wire it into a run.
+geo_enrichment:
+  enabled: false

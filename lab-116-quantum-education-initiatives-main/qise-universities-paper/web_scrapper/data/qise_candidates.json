@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-07-08T22:17:29.100429+00:00",
+    "institution": "PUCP",
+    "country": "Perú",
+    "country_code": "PE",
+    "classification": "non_course_or_contextual",
+    "confidence": "medium",
+    "is_qise_core": false,
+    "semantic_category": "quantum_optics",
+    "keyword_tier": "adjacent",
+    "matched_keyword": "optica cuantica",
+    "matched_keywords": "optica cuantica",
+    "course_title": "En la especialidad de Física, se investiga, teórica o experimentalmente, en temas de altas energías, ciencias de materiales, óptica cuántica, dinámica de...",
+    "evidence_snippet": "…d. Física En la especialidad de Física, se investiga, teórica o experimentalmente, en temas de altas energías, ciencias de materiales, óptica cuántica, dinámica de... ver plan de estudios descarga el plan open_in_new Ingeniería Ambiental y Sostenible La Ingeniería Ambiental y So…",
+    "source_type": "curriculum_grid",
+    "media_type": "html",
+    "source_url": "https://estudios-generales-ciencias.pucp.edu.pe/informacion-academica/plan-de-estudios?especialidad=ingenieria-de-telecomunicaciones",
+    "pdf_url": "",
+    "pdf_page": "",
+    "found_on_page": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-de-las-telecomunicaciones/plan-de-estudios",
+    "seed_origin": "auto_discovered",
+    "extraction_status": "extracted",
+    "language": "es"
+  }
+]

@@ -1,0 +1,3 @@
+institution,country,country_code,website,seed_urls,max_depth,max_pages,language
+PUCP, Perú, PE, https://www.pucp.edu.pe, -, 5, 10, es
+Ponticia Universidad Católica del Perú, Perú, PE, https://www.pucp.edu.pe, -, 5, 10, es

@@ -1,0 +1,6 @@
+﻿country_code,gdp_per_capita_usd,ibm_quantum_network_member,internet_penetration_pct,latam_quantum_alliance_member,national_quantum_initiative,qs_top_rank,qs_top_university,qs_universities_in_ranking,rd_expenditure_pct_gdp,researchers_per_million,scimago_country_rank_physics,times_ranking_top_university
+AR,13969.7837,True,89.6672,True,False,2,Universidad de Buenos Aires,18,0.6011,1312.7528,32,601
+BR,10310.5489,True,84.4635,True,False,3,Universidade de Sao Paulo (USP),23,1.1938,903.2008,13,501
+CL,16709.8894,False,95.5902,True,False,4,Pontificia Universidad Catoica de Chile,20,0.3921,707.0557,39,601
+CO,7919.2089,False,79.3454,True,False,8,Universidad de Los Andes Colombia,13,0.2894,90.2473,47,801
+PE,8452.3717,False,81.9571,False,False,12,Pontificia Universidad Catolica del Peru (PUCP),11,0.1761,,62,1001
